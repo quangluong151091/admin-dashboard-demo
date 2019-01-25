@@ -1,0 +1,21 @@
+body {
+  	/*padding-top: 20px;*/
+  	padding-bottom: 20px;
+  	
+  	font: 400 16px/20px arial
+}
+
+.navbar {
+	margin-top:20px;
+  	margin-bottom: 20px;
+}
+table thead {
+	background: lightblue;
+	text-align: center;
+	color:white;
+}
+.card-header {
+	background: lightblue;
+	text-align: center;
+	color:white;
+}
