@@ -18,7 +18,7 @@ class Nav extends Component {
                 <a className="nav-link" href="/">Category</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/">Detail</a>
+                <a className="nav-link" href="https://github.com/quangluong151091/admin-dashboard-demo" rel="noreferrer noopener" target="_blank">Detail</a>
               </li>
             </ul>
           </div>
